@@ -144,86 +144,86 @@
             'python-hackerrank': {
                 title: 'Python Programming Certification',
                 issuer: 'HackerRank',
-                pdfUrl: 'python_basic certificate.pdf',
-                downloadUrl: 'python_basic certificate.pdf',
-                filename: 'python_basic certificate.pdf'
+                pdfUrl: 'certificates/python_basic certificate.pdf',
+                downloadUrl: 'certificates/python_basic certificate.pdf',
+                filename: 'certificates/python_basic certificate.pdf'
             },
             'Python for Data Science': {
                 title: 'Python for Data Science',
                 issuer: 'NPTEL',
-                pdfUrl: 'Python for Data Science.pdf',
-                downloadUrl: 'Python for Data Science.pdf',
-                filename: 'Python for Data Science.pdf'
+                pdfUrl: 'certificates/Python for Data Science.pdf',
+                downloadUrl: 'certificates/Python for Data Science.pdf',
+                filename: 'certificates/Python for Data Science.pdf'
             },
             'data-science-nptel': {
                 title: 'Data Science with Python',
                 issuer: 'NPTEL',
-                pdfUrl: 'Introduction to Database Systems.pdf',
-                downloadUrl: 'Introduction to Database Systems.pdf',
-                filename: 'Introduction to Database Systems.pdf'
+                pdfUrl: 'certificates/Introduction to Database Systems.pdf',
+                downloadUrl: 'certificates/Introduction to Database Systems.pdf',
+                filename: 'certificates/Introduction to Database Systems.pdf'
             },
             'ui-ux-skillup': {
                 title: 'Basics of UI/UX',
                 issuer: 'Simplilearn - SkillUp',
-                pdfUrl: '7489129_1729787243.pdf',
-                downloadUrl: '7489129_1729787243.pdf',
-                filename: '7489129_1729787243.pdf'
+                pdfUrl: 'certificates/7489129_1729787243.pdf',
+                downloadUrl: 'certificates/7489129_1729787243.pdf',
+                filename: 'certificates/7489129_1729787243.pdf'
             },
             'generative-ai-google': {
                 title: 'Generative AI in Google Cloud',
                 issuer: 'Skill Boost Program',
-                pdfUrl: 'L4G.pdf',
-                downloadUrl: 'L4G.pdf',
-                filename: 'L4G.pdf'
+                pdfUrl: 'certificates/L4G.pdf',
+                downloadUrl: 'certificates/L4G.pdf',
+                filename: 'certificates/L4G.pdf'
             },
             'prompt-engineering-ibm': {
                 title: 'Introduction to Prompt Engineering',
                 issuer: 'IBM - edX',
-                pdfUrl: 'prompt_engineering_ibm_certificate.pdf',
-                downloadUrl: 'prompt_engineering_ibm_certificate.pdf',
-                filename: 'prompt_engineering_ibm_certificate.pdf'
+                pdfUrl: 'certificates/prompt_engineering_ibm_certificate.pdf',
+                downloadUrl: 'certificates/prompt_engineering_ibm_certificate.pdf',
+                filename: 'certificates/prompt_engineering_ibm_certificate.pdf'
             },
             'google-analytics': {
                 title: 'Google Analytics Certification',
                 issuer: 'Google',
-                pdfUrl: 'google.pdf',
-                downloadUrl: 'google.pdf',
-                filename: 'google.pdf'
+                pdfUrl: 'certificates/google.pdf',
+                downloadUrl: 'certificates/google.pdf',
+                filename: 'certificates/google.pdf'
             },
             'azure-sql': {
                 title: 'Build AI Apps with Azure SQL',
                 issuer: 'Microsoft',
-                pdfUrl: 'Microsoft_1.pdf',
-                downloadUrl: 'Microsoft_1.pdf',
-                filename: 'Microsoft_1.pdf'
+                pdfUrl: 'certificates/Microsoft_1.pdf',
+                downloadUrl: 'certificates/Microsoft_1.pdf',
+                filename: 'certificates/Microsoft_1.pdf'
             },
             'startup-idea': {
                 title: 'First Place - Startup Idea',
                 issuer: 'Anurag University National Student Forum 2.0',
-                pdfUrl: 'aunsf.20.pdf',
-                downloadUrl: 'aunsf.20.pdf',
-                filename: 'aunsf.20.pdf'
+                pdfUrl: 'certificates/aunsf.20.pdf',
+                downloadUrl: 'certificates/aunsf.20.pdf',
+                filename: 'certificates/aunsf.20.pdf'
             },
             'havana-25-certificate': {
                 title: "HAVANA'25 Certificate",
                 issuer: 'HAVANA 2025',
-                pdfUrl: 'HAVANA_25_CERTIFICATE.pdf',
-                downloadUrl: 'HAVANA_25_CERTIFICATE.pdf',
-                filename: 'HAVANA_25_CERTIFICATE.pdf'
+                pdfUrl: 'certificates/HAVANA_25_CERTIFICATE.pdf',
+                downloadUrl: 'certificates/HAVANA_25_CERTIFICATE.pdf',
+                filename: 'certificates/HAVANA_25_CERTIFICATE.pdf'
             },
             'fundamental-ai-microsoft': {
                 title: 'Fundamental AI Concepts',
                 issuer: 'Microsoft',
-                pdfUrl: 'Microsoft_AI.pdf',
-                downloadUrl: 'Microsoft_AI.pdf',
-                filename: 'Microsoft_AI.pdf'
+                pdfUrl: 'certificates/Microsoft_AI.pdf',
+                downloadUrl: 'certificates/Microsoft_AI.pdf',
+                filename: 'certificates/Microsoft_AI.pdf'
             },
             'fundamental-ml-microsoft': {
                 title: 'Fundamental of Machine Learning',
                 issuer: 'Microsoft',
-                pdfUrl: 'Microsoft_ML.pdf',
-                downloadUrl: 'Microsoft_ML.pdf',
-                filename: 'Microsoft_ML.pdf'
+                pdfUrl: 'certificates/Microsoft_ML.pdf',
+                downloadUrl: 'certificates/Microsoft_ML.pdf',
+                filename: 'certificates/Microsoft_ML.pdf'
             }
             
         };
