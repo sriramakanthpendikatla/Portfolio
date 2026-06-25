@@ -231,6 +231,13 @@
                 pdfUrl: 'certificates/NPTEL_Human_Computer_Interaction_Elite_100.pdf',
                 downloadUrl: 'certificates/NPTEL_Human_Computer_Interaction_Elite_100.pdf',
                 filename: 'certificates/NPTEL_Human_Computer_Interaction_Elite_100.pdf'
+            },
+            'l4g-genai': {
+                title: 'Generative AI by Google Cloud — 45hr',
+                issuer: 'L4G · Google Cloud Skills Boost',
+                pdfUrl: 'certificates/L4G_Generative_AI_Google_Cloud_45hr.pdf',
+                downloadUrl: 'certificates/L4G_Generative_AI_Google_Cloud_45hr.pdf',
+                filename: 'certificates/L4G_Generative_AI_Google_Cloud_45hr.pdf'
             }
         };
 
