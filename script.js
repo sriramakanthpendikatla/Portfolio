@@ -224,8 +224,14 @@
                 pdfUrl: 'certificates/Microsoft_ML_Fundamentals.pdf',
                 downloadUrl: 'certificates/Microsoft_ML_Fundamentals.pdf',
                 filename: 'certificates/Microsoft_ML_Fundamentals.pdf'
+            },
+            'nptel-hci': {
+                title: 'Human Computer Interaction',
+                issuer: 'NPTEL — IIIT Delhi (Elite | Top 1%)',
+                pdfUrl: 'certificates/NPTEL_Human_Computer_Interaction_Elite_100.pdf',
+                downloadUrl: 'certificates/NPTEL_Human_Computer_Interaction_Elite_100.pdf',
+                filename: 'certificates/NPTEL_Human_Computer_Interaction_Elite_100.pdf'
             }
-            
         };
 
         // Helper function to handle downloads (addresses cross-origin issues)
